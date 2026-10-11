@@ -1,0 +1,28 @@
+{
+  "left": [
+    "left"
+  ],
+  "right": [
+    "right"
+  ],
+  "soft_drop": [
+    "down"
+  ],
+  "rotate": [
+    "space",
+    "x"
+  ],
+  "rotate_ccw": [
+    "z"
+  ],
+  "hard_drop": [
+    "up"
+  ],
+  "pause": [
+    "p"
+  ],
+  "start": [
+    "return",
+    "space"
+  ]
+}
